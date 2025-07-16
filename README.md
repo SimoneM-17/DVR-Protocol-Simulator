@@ -1,2 +1,4 @@
 # DVR-Protocol-Simulator
-Distance-Vector Routing Protocol simulator
+Python script to simulate the "Distance-Vector Routing" Protocol.
+
+Final project for the Telecommunication Networks course - 2024/25 - Bologna University.
